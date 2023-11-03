@@ -1,0 +1,12 @@
+.operacion{
+    border: 1px solid black;
+    margin:15px 10px;
+    padding: 15px 15px;
+    border-radius: 5px;
+}
+.operacion:hover{
+    cursor:pointer;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
